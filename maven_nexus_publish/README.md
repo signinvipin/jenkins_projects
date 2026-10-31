@@ -1,4 +1,4 @@
-# maven-nexus-publish
+# maven_nexus_publish
 
 A small Maven project (`NumberGenerator`) configured to publish artifacts to a Nexus repository. Used to practice Jenkins and Nexus integration.
 
