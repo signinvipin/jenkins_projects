@@ -1,4 +1,4 @@
-# sparkjava-war-job
+# sparkjava_war_job
 
 A SparkJava "Hello World" web app packaged as a WAR file. Used as a sample project for a Jenkins build job.
 
